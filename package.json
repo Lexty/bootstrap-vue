@@ -54,7 +54,8 @@
     "nuxt",
     "esm",
     "es",
-    "types"
+    "types",
+    "scripts"
   ],
   "sideEffects": [
     "**/*.scss",
