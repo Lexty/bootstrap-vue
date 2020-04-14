@@ -55,7 +55,8 @@
     "esm",
     "es",
     "types",
-    "scripts"
+    "scripts",
+    "docs"
   ],
   "sideEffects": [
     "**/*.scss",
